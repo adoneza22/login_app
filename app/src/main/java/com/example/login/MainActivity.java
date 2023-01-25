@@ -36,6 +36,6 @@ public class MainActivity extends AppCompatActivity {
         rv_users.setLayoutManager(linearLayoutManager);
         rv_users.setAdapter(adapter);
 
-
+        //new branch
     }
 }
